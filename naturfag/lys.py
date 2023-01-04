@@ -1,6 +1,12 @@
 import matplotlib.pyplot as plt
 from pylab import *
 
+"""
+Energi = J
+Effekt = W
+Intensitet = W/m^2 (m = meter)
+"""
+
 r = 1
 effekt = 100
 avstand_max = 15
